@@ -13,11 +13,11 @@ channel | Slack の channels 機能を指します。
 
 本サービスはチャットサービス [Slack](https://slack.com/) を利用しています。本ガイドラインで定める事項の他に、[Slack の利用規約](https://slack.com/terms-of-service) を遵守いただく必要があります。
 
-# 運営主体について
+# 運営主体
 
 本サービスは、[PyData.Tokyo](https://pydata.tokyo) の Organizer が管理する Slack Team です。
 
-# 本サービスの目的について
+# 本サービスの目的
 
 本サービスは、Python を利用して Data science の領域に取り組む日本のユーザー同士が、バックグラウンドやスキルレベルを問わず気軽に情報交換、ディスカッション、その他交流を行える場を提供する目的で運営されています。
 
@@ -33,6 +33,10 @@ channel | Slack の channels 機能を指します。
 
 作成済み channel と channel で取り扱う話題の対応表を以下に示します。なお、以下に示す内容はあくまでも参考程度であり、ユーザーの発言内容を厳密に制限するためのものではありません。
 
+### 汎用系 channel
+
+汎用的なトピックを扱う channel の一覧です。
+
 channel | 取り扱う話題
 ------- | --------
 #event | PyData 系の勉強会やカンファレンスなどイベントに関するトピックを扱います。イベントの開催告知も行えます。
@@ -43,6 +47,24 @@ channel | 取り扱う話題
 #novice-pydata | これから PyData に取り組みかた、取り組み始めたばかりのかたなど、PyData 入門者向けの channel です。
 #preprocessing | データの前処理や加工、収集に関するトピックを扱います。
 #visualization | グラフ作成など、データの可視化に関するトピックを扱います。
+
+例として、機械学習に関する話題は `#ml` を利用してください。機械学習の中でも、特定のパッケージやライブラリ (e.g. scikit-learn) に関連の深い話題は後述のツール系 channel を利用してください。
+
+### ツール系 channel
+
+特定のライブラリ、パッケージ、ツールに深く関連するトピックを扱う channel の一覧です。
+
+channel | 取り扱うライブラリ・パッケージ
+------- | --------
+#tool_anaconda | [Anaconda](https://www.continuum.io/why-anaconda)
+#tool_chainer | [Chainer](http://chainer.org/)
+#tool_jupyter | [Jupyter](http://jupyter.org/)
+#tool_keras | [Keras](http://keras.io/)
+#tool_numpy | [NumPy](http://www.numpy.org/)
+#tool_pandas | [Pandas](http://pandas.pydata.org/), [Dask](http://dask.pydata.org/en/latest/)
+#tool_scikit-learn | [scikit-learn](http://scikit-learn.org/)
+#tool_scipy | [SciPy](https://www.scipy.org/scipylib/index.html)
+#tool_tensorflow | [TensorFlow](https://www.tensorflow.org/)
 
 # 行動規範と利用停止
 
