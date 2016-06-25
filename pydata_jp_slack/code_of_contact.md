@@ -42,7 +42,7 @@ channel | 取り扱う話題
 #event | PyData 系の勉強会やカンファレンスなどイベントに関するトピックを扱います。イベントの開催告知も行えます。
 #general | 汎用 channel です。
 #introduction | ユーザーが自己紹介を行うための channel です。本channelへの投稿は強制ではありません。得意分野や関心領域を共有しユーザー間の交流に役立ててください。
-#ml | 機械学習 (Machine Learning) に関するトピックを扱います。深層学習 (Deep Learning) のトピック、[scikit-learn](http://scikit-learn.org/stable/) や [Tensorflow](https://www.tensorflow.org/) などのパッケージのトピックも含みます。
+#ml | 機械学習 (Machine Learning) に関するトピックを扱います。深層学習 (Deep Learning) のトピックも扱います。
 #novice-ml | 扱うトピックは #ml と同じですが、特にこれから Python で機械学習に取り組むかた、取り組み始めたばかりのかたなど、入門者向けの channel です。
 #novice-pydata | これから PyData に取り組みかた、取り組み始めたばかりのかたなど、PyData 入門者向けの channel です。
 #preprocessing | データの前処理や加工、収集に関するトピックを扱います。
