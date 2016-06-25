@@ -31,7 +31,7 @@ channel | Slack の channels 機能を指します。
 
 ## channel 一覧
 
-作成済み channel と channel で取り扱う話題の対応表を以下に示します。なお、以下に示す内容はあくまでも参考程度であり、ユーザーの発言内容を厳密に制限するためのものではありません。
+作成済み channel と channel で取り扱う話題の対応表を以下に示します。なお、以下に示す内容はあくまでも参考程度であり、ユーザーの発言内容を厳密に制限するためのものではありません。利用状況に応じて、新規作成、廃止、統合が行われる場合があります。
 
 ### 汎用系 channel
 
@@ -42,7 +42,8 @@ channel | 取り扱う話題
 #event | PyData 系の勉強会やカンファレンスなどイベントに関するトピックを扱います。イベントの開催告知も行えます。
 #general | 汎用 channel です。
 #introduction | ユーザーが自己紹介を行うための channel です。本channelへの投稿は強制ではありません。得意分野や関心領域を共有しユーザー間の交流に役立ててください。
-#ml | 機械学習 (Machine Learning) に関するトピックを扱います。深層学習 (Deep Learning) のトピックも扱います。
+#ml | 機械学習 (Machine Learning) 全般に関するトピックを扱います。深層学習 (Deep Learning) 全般のトピックも扱います。
+#nlp | 自然言語処理 (Natural Language Processing) に関するトピックを扱います。
 #novice-ml | 扱うトピックは #ml と同じですが、特にこれから Python で機械学習に取り組むかた、取り組み始めたばかりのかたなど、入門者向けの channel です。
 #novice-pydata | これから PyData に取り組みかた、取り組み始めたばかりのかたなど、PyData 入門者向けの channel です。
 #preprocessing | データの前処理や加工、収集に関するトピックを扱います。
@@ -60,6 +61,7 @@ channel | 取り扱うライブラリ・パッケージ
 #tool_chainer | [Chainer](http://chainer.org/)
 #tool_jupyter | [Jupyter](http://jupyter.org/)
 #tool_keras | [Keras](http://keras.io/)
+#tool_nltk | [NLTK](http://www.nltk.org/)
 #tool_numpy | [NumPy](http://www.numpy.org/)
 #tool_pandas | [Pandas](http://pandas.pydata.org/), [Dask](http://dask.pydata.org/en/latest/)
 #tool_scikit-learn | [scikit-learn](http://scikit-learn.org/)
