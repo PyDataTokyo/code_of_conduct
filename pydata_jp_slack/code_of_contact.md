@@ -1,4 +1,4 @@
-# Slack グループ PyData-JP 行動規範およびガイドライン
+# Slack Team PyData-JP 行動規範およびガイドライン
 
 このドキュメントは、Slack Team [PyData-JP](https://pydata-jp.slack.com/) (以下、本サービス) を利用するうえでの行動規範およびガイドライン (以下、本ガイドライン) を定めたものです。
 
