@@ -1,6 +1,6 @@
-# Slack Team PyData-JP 行動規範およびガイドライン
+# Slack Team PyData-JP Code of Conduct および Guideline
 
-このドキュメントは、Slack Team [PyData-JP](https://pydata-jp.slack.com/) (以下、本サービス) を利用するうえでの行動規範およびガイドライン (以下、本ガイドライン) を定めたものです。
+このドキュメントは、Slack Team [PyData-JP](https://pydata-jp.slack.com/) (以下、本サービス) を利用するうえでの Code of Conduct (行動規範) およびガイドライン (以下、本ガイドライン) を定めたものです。
 
 # 用語の定義
 
@@ -31,7 +31,7 @@ channel | Slack の channels 機能を指します。
 
 ## channel 一覧
 
-作成済み channel と channel で取り扱う話題の対応表を以下に示します。なお、以下に示す内容はあくまでも参考程度であり、ユーザーの発言内容を厳密に制限するためのものではありません。利用状況に応じて、新規作成、廃止、統合が行われる場合があります。
+作成済み channel と channel で取り扱う話題の対応表を以下に示します。なお、以下に示す内容はあくまでも参考程度であり、ユーザーの発言内容を厳密に制限するためのものではありません。channel の利用状況に応じて、新規作成、廃止、統合が行われる場合があります。
 
 ### 汎用系 channel
 
@@ -45,7 +45,7 @@ channel | 取り扱う話題
 #ml | 機械学習 (Machine Learning) 全般に関するトピックを扱います。深層学習 (Deep Learning) 全般のトピックも扱います。
 #nlp | 自然言語処理 (Natural Language Processing) に関するトピックを扱います。
 #novice-ml | 扱うトピックは #ml と同じですが、特にこれから Python で機械学習に取り組むかた、取り組み始めたばかりのかたなど、入門者向けの channel です。
-#novice-pydata | これから PyData に取り組みかた、取り組み始めたばかりのかたなど、PyData 入門者向けの channel です。
+#novice-pydata | これから PyData に取り組みむた、取り組み始めたばかりのかたなど、PyData 入門者向けの channel です。
 #preprocessing | データの前処理や加工、収集に関するトピックを扱います。
 #visualization | グラフ作成など、データの可視化に関するトピックを扱います。
 
@@ -59,8 +59,9 @@ channel | 取り扱うライブラリ・パッケージ
 ------- | --------
 #tool_anaconda | [Anaconda](https://www.continuum.io/why-anaconda)
 #tool_chainer | [Chainer](http://chainer.org/)
-#tool_jupyter | [Jupyter](http://jupyter.org/)
+#tool_jupyter | [Jupyter](http://jupyter.org/), [IPython](https://ipython.org/)
 #tool_keras | [Keras](http://keras.io/)
+#tool_matplotlib | [matplotlib](http://matplotlib.org/), [Bokeh](http://bokeh.pydata.org/en/latest/), [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 #tool_nltk | [NLTK](http://www.nltk.org/)
 #tool_numpy | [NumPy](http://www.numpy.org/)
 #tool_pandas | [Pandas](http://pandas.pydata.org/), [Dask](http://dask.pydata.org/en/latest/)
@@ -70,7 +71,7 @@ channel | 取り扱うライブラリ・パッケージ
 
 # 行動規範と利用停止
 
-「本サービスの目的について」で定めたとおり、本サービスはさまざまなバックグラウンドやスキルレベルをもつユーザーが気軽に交流することを目的としています。従って、他社を不快にさせるような発言や行動については本サービス内では行わないでください。人種、国籍、性別などへの差別的発言は禁止しています。また、他者及び他社への攻撃的及び侮蔑的発言も控えてください。
+「本サービスの目的について」で定めたとおり、本サービスはさまざまなバックグラウンドやスキルレベルをもつユーザーが気軽に交流することを目的としています。従って、他者を不快にさせるような発言や行動については本サービス内では行わないでください。人種、国籍、性別などへの差別的発言は禁止しています。また、他者及び他社への攻撃的及び侮蔑的発言も控えてください。
 
 運営主体である [PyData.Tokyo](https://pydata.toyo) は、下記の Code of Conduct (行動規範) に賛同しています。
 
