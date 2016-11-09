@@ -1,4 +1,6 @@
-# THE SHORTER VERSION [WIP]
+# PyData.Tokyo Code of Conduct
+
+## THE SHORTER VERSION [WIP]
 
 PyData.Tokyo は、カンファレンスやミートアップ、その他活動において、ハラスメントが行われないコミュニティであるよう強く心懸けています。PyData.Tokyo はいかなる形式であれ、性別、性的指向、ハンディキャップ、身体的特徴、人種や民族、思想や信条、宗教などを対象とした、コミュニティ活動参加者のハラスメント行為を容認しません。
 
@@ -10,7 +12,7 @@ PyData.Tokyo は、カンファレンスやミートアップ、その他活動�
 
 いつも、すてきなコミュニティ運営にご協力いただきありがとうございます。すべてのかたが楽しめるコミュニティでありますよう。
 
-# LICENSE
+## LICENSE
 
 1. This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 2. This Code of Conduct was forked from the [PYDATA CODE OF CONDUCT](http://pydata.org/code-of-conduct.html) and translated by PyData.Tokyo organizers.
