@@ -75,7 +75,7 @@ channel | 取り扱うライブラリ・パッケージ
 
 運営主体である [PyData.Tokyo](https://pydata.toyo) は、下記の Code of Conduct (行動規範) に賛同しています。
 
-- [PyData.org | About/code of conduct](http://pydata.org/about/code_of_conduct/)
+- [PyData.org | PYDATA CODE OF CONDUCT](http://pydata.org/code-of-conduct.html)
 
 本サービス内で、上記行動規範から逸脱する行為を発見した場合、管理者権限により当該ユーザーのアカウントを削除し利用停止とする場合があります。
 
