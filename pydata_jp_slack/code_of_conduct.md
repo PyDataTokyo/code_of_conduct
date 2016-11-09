@@ -58,11 +58,11 @@ channel | 取り扱うライブラリ・パッケージ
 
 # 行動規範と利用停止
 
-「本サービスの目的について」で定めたとおり、本サービスはさまざまなバックグラウンドやスキルレベルをもつユーザーが気軽に交流することを目的としています。Slack Team [PyData-JP](https://pydata-jp.slack.com/) において、他者を不快にさせるような発言や行動については本サービス内では行わないでください。人種、国籍、性別などへの差別的発言は禁止しています。また、他者及び他社への攻撃的及び侮蔑的発言も控えてください。
+行動規範 (Code of Conduct) として、以下の内容をご確認ください。
 
-運営主体である [PyData.Tokyo](https://pydata.toyo) は、下記の Code of Conduct (行動規範) に賛同しています。
+- [PyData.Tokyo Code of Conduct](https://github.com/PyDataTokyo/code_of_conduct/blob/master/common/code_of_conduct.md)
 
-- [PyData.org | PYDATA CODE OF CONDUCT](http://pydata.org/code-of-conduct.html)
+上記行動規範は、本サービスにおいても適用されます。「本サービスの目的について」で定めたとおり、本サービスはさまざまなバックグラウンドやスキルレベルをもつユーザーが気軽に交流することを目的としています。Slack Team [PyData-JP](https://pydata-jp.slack.com/) において、他者を不快にさせるような発言や行動については本サービス内では行わないでください。人種、国籍、性別などへの差別的発言は禁止しています。また、他者及び他社への攻撃的及び侮蔑的発言も控えてください。
 
 本サービス内で、上記行動規範から逸脱する行為を発見した場合、管理者権限により当該ユーザーのアカウントを削除し利用停止とする場合があります。
 
