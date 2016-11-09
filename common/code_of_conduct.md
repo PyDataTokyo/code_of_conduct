@@ -1,4 +1,4 @@
-# PyData.Tokyo Code of Conduct [WIP]
+# PyData.Tokyo CODE OF CONDUCT [WIP]
 
 PyData.Tokyo は 企業・スタートアップ・学会等の各方面で活躍している方々が、Python・データ分析・機械学習関連のトピックについて議論、交流するためのコミュニティです。
 
